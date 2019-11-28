@@ -1,5 +1,8 @@
-# ![XyOS](https://user-images.githubusercontent.com/14666061/54874196-9f1a4480-4dbc-11e9-9285-a7f5f3401194.png)
-XyOS is a 64-Bit micro-kernel written in C and Assembly designed to run on the Raspberry Pi 3B.
+# ![IN-PROGRESS] Template OS Project :wrench::nut_and_bolt::hammer: 
+XyOS by Xyan Bhatnagar.
+A 64-Bit micro-kernel written in C and Assembly designed to run on the Raspberry Pi 3B.
+
+## This repo is the sole property of Xyan and I am using his implementation for academic purposes. 
 
 ## Goals
 - [X] Get something to boot reliably. Get familiar with AArch64 concepts.
@@ -11,6 +14,4 @@ XyOS is a 64-Bit micro-kernel written in C and Assembly designed to run on the R
 - [ ] Implement user space - processes, system calls, etc.
 - [ ] Build an abstraction layer for higher level peripherals - USB, HDMI, WiFi, Bluetooth, etc.
 
-## Tracking Progress
-An open issue is either a goal that I want to achieve or a problem that I need to fix.
-As I start working on something, I'll try to explain things there via comments.
+

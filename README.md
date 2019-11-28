@@ -1,4 +1,4 @@
-# [IN-PROGRESS] Template OS Project :wrench::nut_and_bolt::hammer: 
+# [IN-PROGRESS] Template OS Project :hammer::hammer::hammer: 
 XyOS by Xyan Bhatnagar.
 A 64-Bit micro-kernel written in C and Assembly designed to run on the Raspberry Pi 3B.
 

@@ -4,7 +4,7 @@ A 64-Bit micro-kernel written in C and Assembly designed to run on the Raspberry
 
 ## This repo is the sole property of Xyan and I am using his implementation for academic purposes. 
 
-## Goals
+## Xyan's Goals
 - [X] Get something to boot reliably. Get familiar with AArch64 concepts.
 - [X] Get access to basic peripherals on the Raspberry Pi - GPIO, UART, Timers.
 - [X] Enable software and hardware interrupts
